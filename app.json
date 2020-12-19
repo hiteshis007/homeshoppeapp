@@ -1,0 +1,12 @@
+{
+  "name": "home-shoppe",
+  "displayName": "home-shoppe",
+  "expo": {
+    "name": "home-shoppe",
+    "slug": "home-shoppe",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
